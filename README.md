@@ -1,4 +1,4 @@
-# Reset the VM admin password
+# Estimate costs for cloud infrastructure
 
 Wow! Now you know how it feels to run a successful startup! Your todo app user base grows, and potential investors are getting interested in your project. Before investing money, your potential investors want to know, how much it costs to run the cloud infrastructure for your application - so in this task you will need to calculate the costs.
 
