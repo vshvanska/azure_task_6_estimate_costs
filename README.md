@@ -56,7 +56,7 @@ If you are a Windows user, before running this command, please also run the foll
 
 ## Requirements
 
-In this task, you need to work with the infrastructure from the [previous tasks](https://github.com/mate-academy/azure_task_3_attach_data_disk). In order to complete the task, you need to perform the following steps: 
+In this task, you need to work with the infrastructure from the [previous tasks](https://github.com/mate-academy/azure_task_5_move_vm_to_new_region). In order to complete the task, you need to perform the following steps: 
 
 1. Use [Azure Pricing Calculator](https://azure.microsoft.com/en-gb/pricing/calculator/) to estimate monthly cost of your infrastructure (as it would cost with Pay-as-you-go subsciption type). You need to include the following resources in your calculations:
 
@@ -73,3 +73,5 @@ In this task, you need to work with the infrastructure from the [previous tasks]
 4. Test yourself using the script `scripts/validate-artifacts.ps1`. 
 
 4. Sumbit the solution for a review.
+
+5. When the solution is validates - fell free to delete resources you created for the [previous tasks](https://github.com/mate-academy/azure_task_5_move_vm_to_new_region) - you won't need them for other tasks in this module. 
