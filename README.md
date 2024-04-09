@@ -73,5 +73,3 @@ In this task, you need to work with the infrastructure from the [previous tasks]
 4. Test yourself using the script `scripts/validate-artifacts.ps1`. 
 
 4. Sumbit the solution for a review.
-
-5. When the solution is validates - fell free to delete resources you created for the [previous tasks](https://github.com/mate-academy/azure_task_5_move_vm_to_new_region) - you won't need them for other tasks in this module. 
