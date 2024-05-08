@@ -33,8 +33,8 @@ if ($DownloadArtifacts) {
 }
 
 Write-Output "Installing pre-requirements"
-Install-Module ImportExcel 
-Import-Module -Name ImportExcel
+Install-Module ImportExcel -Force 
+# Import-Module -Name ImportExcel
 
 
 Write-Output "Validating artifacts"
